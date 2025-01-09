@@ -35,12 +35,10 @@ E.g. Top 10 ingredients used in brazilian cuisine
 ![Top 10 ingredients used in brazilian cuisine](./images/cleaned_data_graph_brazilian.png)
 
 4. Apply machine learning models and generate classification reports
-- Random Forest
-    - Accuracy: 0.718
-    - ![Random Forest classification report](./images/rf_report.png)
-- Logistic Regression
-    - Accuracy: 0.773
-    - ![Logistic Regression classifcation report](./images/logreg_report.png)
+- Random Forest (Accuracy: 0.718)
+![Random Forest classification report](./images/rf_report.png)
+- Logistic Regression (Accuracy: 0.773)
+![Logistic Regression classifcation report](./images/logreg_report.png)
 
 
 
